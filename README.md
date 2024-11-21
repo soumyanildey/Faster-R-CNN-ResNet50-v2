@@ -49,4 +49,11 @@ Future Scope
  Experiment with larger datasets and ensemble models for better accuracy.
  Address variability with targeted training for specific classes.
 
+Some Sample Detections:
+
  ![image](https://github.com/user-attachments/assets/cbf477ac-cd4f-4401-8a28-94d7065b0cf9)
+ ![image](https://github.com/user-attachments/assets/9cb82513-c426-4f70-b131-f2cf563e126c)
+ ![image](https://github.com/user-attachments/assets/9d58dc3b-5e78-4cf3-bbf4-5fbce0c659af)
+ ![image](https://github.com/user-attachments/assets/a1bbbc4d-0d03-438a-ba22-52f1da3f4be6)
+ ![image](https://github.com/user-attachments/assets/7c93e611-3c65-4128-9e66-049b46cc7357)
+
